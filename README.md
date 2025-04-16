@@ -21,12 +21,9 @@ You can use the [Kaggle Forest Fire Image Dataset](https://kaggle/input/the-wild
 - Matplotlib
 - Jupyter Notebook / Google Colab
 #installation
-
- Clone the repository:
-   ```bash
    git clone https://github.com/your-Amritdeep1404/forest-fire-detection.git
    cd forest-fire-detection
-# How It Works
+How It Works
 Data Preprocessing
 Images are resized, normalized, and augmented for training.
 
@@ -37,4 +34,5 @@ Training
 The model is trained to classify images as fire or non-fire.
 
 Prediction
-New images can be passed to the model for real-time fire detection. 
+New images can be passed to the model for real-time fire detection.
+
